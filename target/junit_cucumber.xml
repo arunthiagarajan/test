@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.440836">
+<testcase classname="sample Test" name="As a seller, i need to log onto platform using services" time="10.440836">
+<system-out><![CDATA[Given As a seller after registration with credentials available.............passed
+Then log into platform using services.......................................passed
+And Verify the token id is generated........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

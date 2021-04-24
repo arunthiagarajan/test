@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.saucelabs:ci-sauce:1.123">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/saucelabs/ci-sauce/1.123/ci-sauce-1.123.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/saucelabs/ci-sauce/1.123/ci-sauce-1.123-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/saucelabs/ci-sauce/1.123/ci-sauce-1.123-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,86 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8084744859,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ScreenShotHook.beforeScenario()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "As a seller, i need to log onto platform using services",
+        "description": "",
+        "id": "sample-test;as-a-seller--i-need-to-log-onto-platform-using-services",
+        "after": [
+          {
+            "result": {
+              "duration": 158025,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ScreenShotHook.afterTest(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2259200512,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "As a seller after registration with credentials available",
+            "match": {
+              "location": "sampleStepDef.logIn()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 56565050,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "log into platform using services",
+            "match": {
+              "location": "sampleStepDef.verify()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 223210,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify the token id is generated",
+            "match": {
+              "location": "sampleStepDef.sample()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "sample Test",
+    "description": "",
+    "id": "sample-test",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/LogIn.feature",
+    "tags": []
+  }
+]

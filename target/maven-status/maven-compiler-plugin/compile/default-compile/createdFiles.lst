@@ -1,0 +1,13 @@
+com\cornwall\project\configuration\LoadProperties.class
+com\cornwall\project\framework\AbstractPage.class
+com\cornwall\project\configuration\SystemProperties.class
+com\cornwall\project\Pages\logIn.class
+com\cornwall\project\framework\AbstractPage$3.class
+com\cornwall\project\framework\FastestDriver.class
+com\cornwall\project\exception\PageOperationException.class
+com\cornwall\project\framework\AbstractPage$1.class
+com\cornwall\project\framework\SauceLabsDriver.class
+com\cornwall\project\framework\AbstractPage$2.class
+com\cornwall\project\framework\WebDriverDiscovery.class
+com\cornwall\project\Utils\WebServiceUtil$1.class
+com\cornwall\project\Utils\WebServiceUtil.class
